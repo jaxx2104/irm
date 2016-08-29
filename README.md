@@ -5,20 +5,20 @@ irMagician utility.
 irMagician CLI utility.
 
 # Usage
-capture
-irm.py -c
+## capture
+$ irm.py -c
 
-play
+## play
 $ irm.py -p
 
-temperature
+## temperature
 $ irm.py -t
 
-save file
+## save file
 $ irm.py -sf data.json
 
-play file
+## play file
 $ irm.py -pf data.json
 
-temperature file
+## temperature file
 $ irm.py -tf data.json
