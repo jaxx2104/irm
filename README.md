@@ -1,0 +1,2 @@
+# irm
+irMagician script
